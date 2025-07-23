@@ -14,7 +14,7 @@ export default function Footer() {
                 <i className="ri-cup-fill text-2xl text-amber-200"></i>
               </div>
               <span className="text-xl font-bold" style={{ fontFamily: 'Pacifico, serif' }}>
-                Readdy Coffee
+                Coffee Coffee
               </span>
             </div>
             <p className="text-amber-100 text-sm">
@@ -94,7 +94,7 @@ export default function Footer() {
 
         <div className="border-t border-amber-800 mt-8 pt-8 text-center">
           <p className="text-amber-200 text-sm">
-            © 2024 Readdy AI Coffee Cafe. All rights reserved. | Crafted with love and caffeine.
+            © 2024 Coffee AI Coffee Cafe. All rights reserved. | Crafted with love and caffeine.
           </p>
         </div>
       </div>
