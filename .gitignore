@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+out/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Coverage reports
+coverage/
+
+# Temporary files
+tmp/
+*.tmp
+
+# Dependency directories
+bower_components/
