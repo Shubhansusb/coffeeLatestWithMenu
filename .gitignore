@@ -5,6 +5,7 @@ node_modules/
 dist/
 out/
 build/
+.next/
 
 # Logs
 *.log
@@ -24,6 +25,7 @@ coverage/
 # Temporary files
 tmp/
 *.tmp
+
 
 # Dependency directories
 bower_components/

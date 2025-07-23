@@ -14,7 +14,7 @@ export default function Footer() {
                 <i className="ri-cup-fill text-2xl text-amber-200"></i>
               </div>
               <span className="text-xl font-bold" style={{ fontFamily: 'Pacifico, serif' }}>
-                Coffee Coffee
+                Coffee 
               </span>
             </div>
             <p className="text-amber-100 text-sm">

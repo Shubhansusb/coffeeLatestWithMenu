@@ -16,7 +16,7 @@ export default function Header() {
               <i className="ri-cup-fill text-2xl text-amber-700"></i>
             </div>
             <span className="text-xl font-bold text-amber-800" style={{ fontFamily: 'Pacifico, serif' }}>
-              Coffee Coffee
+              Coffee 
             </span>
           </Link>
 
